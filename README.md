@@ -7,3 +7,8 @@ Use command gulp to run in watch mode:
 * gulp-typescript
 * gulp-sourcemaps
 * gulp-webserver
+
+# RUNNING
+* git clone https://github.com/deivthings/angular2-quickstarter-gulp.git
+* npm install
+* gulp
